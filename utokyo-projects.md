@@ -18,7 +18,7 @@ Title                    | Mixed-traffic Intersection Management using Traffic-l
 Summary                  | A novel cluster-based reservation for mixed-traffic intersections with traffic-load-responsive scheduling. V2X communication is also added to enable CAVs to reach the optimal crossing speed. 
 Proposed methods         | TLLRIM + VESC
 Author and co-authors    | Nicholaus Danispadmanaba Yosodipuro, Ehsan Javanmardi, Jin Nakazato, Yasumasa Tamura, Xavier Defago, Manabu Tsukada
-Publication type         | Internation conference
+Publication type         | International conference
 Location                 | Bilbao, Spain
 Paper link               | TBA
 
