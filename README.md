@@ -19,7 +19,7 @@ School/faculty  | Graduate School of Information Science and Technology
 Department      | Creative Informatics
 Lab             | Tsukada Lab
 Research topic  | mixed-traffic intersection management, C-ITS
-Projects        | [click here for more detail]()
+Projects        | [click here for more detail](./utokyo-projects.md)
 
 **Bandung Institute of Technology (2017 - 2021)**
 
