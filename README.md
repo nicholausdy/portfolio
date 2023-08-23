@@ -27,7 +27,7 @@ Degree          | Bachelor of Engineering
 -------------   | -------------
 School/faculty  | School of Electrical Engineering and Informatics
 Department      | Information Systems and Technology
-Projects        | [click here for more detail]()
+Projects        | [click here for more detail](./itb-projects.md)
 
 
 ## Experience
