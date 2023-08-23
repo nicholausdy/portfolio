@@ -1,10 +1,8 @@
 # Nicholaus D. Yosodipuro
 ## About
 
+<img src="./bio_image.png" width="200"> 
 
-<img style="vertical-align:middle;" src="https://github.com/nicholausdy/portfolio/blob/1fe2441892a33ddf099582900a55c39b0b171899/Screenshot_from_2023-08-23%2015-52-50.png" width="250"> 
-<div style='vertical-align:middle; display:inline;'>
-  
 Nicholaus is an aspiring _software engineer_ aiming to generate innovative ideas and products/services that can positively impact society. This dream comes from his fascination with how society is radically transformed with the advent of the _Digital Revolution_ and the rapid growth of the Internet, starting from how we communicate with each other to how we conduct business. As a software engineer, he intends to partake in this revolution by reshaping society for the better. 
 
 
