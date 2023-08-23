@@ -31,7 +31,7 @@ Projects        | [click here for more detail]()
 
 
 ## Experience
-**HENNGE (Sep 2022 - Oct 2022**
+**HENNGE (Sep 2022 - Oct 2022)**
 
 Position          | Software Engineer Intern
 ------------      | ------------
