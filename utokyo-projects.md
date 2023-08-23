@@ -7,7 +7,7 @@ Title       | Traffic-load-responsive Intersection Management for Mixed-traffic 
 Summary     | Formulated a novel traffic-load-responsive method to manage a mixed-traffic intersection, e.g., an intersection containing connected autonomous vehicles (CAVs) and non-connected vehicles (NCVs), by utilizing our novel Traffic-Adjusted Least Laxity First (TALLF) scheduling.
 Supervisor  | Prof. Manabu Tsukada
 Language    | Python
-Simulator   | ![OpenCDA](https://github.com/ucla-mobility/OpenCDA), ![CARLA](https://github.com/carla-simulator/carla)
+Simulator   | [OpenCDA](https://github.com/ucla-mobility/OpenCDA), [CARLA](https://github.com/carla-simulator/carla)
 
 **Publication**
 
