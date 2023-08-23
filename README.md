@@ -1,2 +1,2 @@
-# portfolio
-My personal portfolio
+# About
+Nicholaus D. Yosodipuro
