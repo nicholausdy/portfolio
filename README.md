@@ -32,6 +32,7 @@ Projects        | [click here for more detail]()
 
 ## Experience
 **HENNGE (Sep 2022 - Oct 2022**
+
 Position          | Software Engineer Intern
 ------------      | ------------
 Job summary       | Developed a full-stack web application that incorporates appropriate coding conventions
@@ -41,6 +42,7 @@ Frontend          | JavaScript, WebComponent, HTML, CSS
 Deployment        | Docker, AWS, Terraform
 
 **Thinkmatch (Jun 2020 - Aug 2020)**
+
 Position          | Software Engineer Intern
 ------------      | ------------
 Job summary       | Developed REST API and data pipeline to predictive maintenance ML model
@@ -50,6 +52,7 @@ Message broker    | NATS
 Deployment        | Bare-metal server, Ubuntu, NGINX
 
 **Packet Systems Indonesia (May 2019 - Aug 2019)**
+
 Position          | Professional Services Intern
 -------------     | -------------
 Job summary       | Assisted the implementation of an on-premise cloud solution for clients
