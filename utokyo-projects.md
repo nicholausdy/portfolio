@@ -34,5 +34,7 @@ Paper link               | TBA
 - [Huffman Coding](https://github.com/nicholausdy/HuffmanCoding)
 - [Randomized Quadratic Non-Residue](https://github.com/nicholausdy/QuadraticNonResidue)
 - [Wavelet Tree using Succinct Data Structure](https://github.com/nicholausdy/WaveletTree)
+- [RNN-LSTM to Identify Formal/Informal Indonesian Sentences](https://github.com/nicholausdy/RNN-LSTM-Informal-Formal-IDLang)
+- [Transformer to Identify Formal/Informal Indonesian Sentences](https://github.com/nicholausdy/Transformer-Informal-Formal-IDLang)
 
 [Back to top page](./README.md)
